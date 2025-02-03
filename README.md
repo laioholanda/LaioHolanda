@@ -108,8 +108,7 @@
    align = "left"
    alt = "GitHub Stats"
    height = 200px
-   style = "padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=laioholanda&theme=radical&layout=compact&custom_title=Tecnoligias&linguage-count=9" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=laioholanda&theme=radical&layout=compact&custom_title=Tecnoligias&langs_count=9" 
 />
 
           
